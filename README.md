@@ -23,7 +23,7 @@
 
 # 5. Taks
 
-   > Task 1: Sensor Read and Print
+   ## Task 1: Sensor Read and Print
    => Read DHT22 every 5 seconds and print the temperature and humidity with 2 decimals.
    Serial Screenshot:
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/e098ae2c716a547fd1198646a2a06bc965191cbd/photo_2025-09-07%2002.03.32.jpeg?raw=true)
