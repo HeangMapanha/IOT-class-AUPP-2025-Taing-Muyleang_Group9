@@ -26,12 +26,16 @@
    Task 1: Sensor Read and Print
    => Read DHT22 every 5 seconds and print the temperature and humidity with 2 decimals.
    Serial Screenshot:
-   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/2beae9839e192c9d749b2e516e90117626ec70f9/photo_2025-09-07%2001.41.15.jpeg?raw=true)
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/e098ae2c716a547fd1198646a2a06bc965191cbd/photo_2025-09-07%2002.03.32.jpeg?raw=true)
    
 
    Task 2: Telegram Send
    => Implement send_message() and post a test message to your group.
    Screenshot:
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/cd12c23a5856e967bcdd0e9e0a8801b3e3b0ecb7/photo_2025-09-07%2002.08.02.jpeg?raw=true)
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/cd12c23a5856e967bcdd0e9e0a8801b3e3b0ecb7/photo_2025-09-07%2002.08.04.jpeg?raw=true)
+
+   
 
    Task 3: Bot command
    => • Implement /status to reply with current T/H and relay state.
