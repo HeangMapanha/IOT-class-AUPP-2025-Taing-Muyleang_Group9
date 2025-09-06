@@ -12,12 +12,12 @@
    - Evaluate performance (sampling interval, rate limits) and safety (relay loads, power isolation).
    
 # 3. Equipment
-   • ESP32 Dev Board (MicroPython firmware flashed)
-   • DHT22 sensor
-   • Relay module
-   • jumper wires
-   • USB cable + laptop with Thonny
-   • Wi-Fi access (internet)
+   - ESP32 Dev Board (MicroPython firmware flashed)
+   - DHT22 sensor
+   - Relay module
+   - jumper wires
+   - USB cable + laptop with Thonny
+   - Wi-Fi access (internet)
 
 # 4. Wiring
 
@@ -36,8 +36,8 @@
 
    
    ### Task 3: Bot command
-   => • Implement /status to reply with current T/H and relay state.
-      • Implement /on and /off to control the relay.
+   > - Implement /status to reply with current T/H and relay state.
+   > - Implement /on and /off to control the relay.
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/cd12c23a5856e967bcdd0e9e0a8801b3e3b0ecb7/photo_2025-09-07%2002.08.02.jpeg?raw=true)
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/cd12c23a5856e967bcdd0e9e0a8801b3e3b0ecb7/photo_2025-09-07%2002.08.04.jpeg?raw=true)
 
