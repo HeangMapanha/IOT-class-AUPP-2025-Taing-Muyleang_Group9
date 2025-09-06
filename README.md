@@ -55,8 +55,8 @@
    - Wiring Diagram/photo
 
    - Configuration steps:
-     + Token
-     + Chat id:
+     + Token: 7591180638:AAF7Kol0RyDsgbh3airP0NA7dEtF0i-FlGE
+     + Chat id: -4936918510
    
    - Usage Instruction:
   
