@@ -122,8 +122,7 @@ def handle_cmd(chat_id, text):
         send_message(chat_id, "Commands:\n/on\n/off\n/status\n/temp\n/whoami")
     else:
         send_message(chat_id, "Unknown. Try /on, /off, /status, /temp, /whoami")
-
-
+    
 # ---- Main loop ----
 def main():
     connect_wifi()
@@ -142,7 +141,6 @@ def main():
     global low_temp_message_sent
     global tempAlert
 
-
     while True:
         # --- check Wi-Fi ---
         try:
@@ -150,6 +148,7 @@ def main():
                 connect_wifi()
         except:
             pass
+
 
         # --- process Telegram messages ---
         updates = get_updates(offset=(last_id + 1) if last_id is not None else None)
@@ -173,7 +172,7 @@ def main():
 
             handle_cmd(chat_id, text)
 
-             # --- check temperature automatically ---
+        # --- check temperature automatically ---
         temp, hum = temp_reader()
         if temp is not None and temp >= 30 and tempAlert == True:
             now = time.ticks_ms()
@@ -190,7 +189,7 @@ def main():
                 low_temp_message_sent = True  # Mark as sent
             tempAlert = True  # Always re-enable alerts when temp drops below 30°C
                     
-        time.sleep(1)
+        time.sleep(5)
 
 # Start the program
 if __name__ == "__main__":
