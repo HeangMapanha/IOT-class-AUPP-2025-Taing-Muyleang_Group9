@@ -25,7 +25,9 @@
 
    Task 1: Sensor Read and Print
    => Read DHT22 every 5 seconds and print the temperature and humidity with 2 decimals.
-   Screenshot:
+   Serial Screenshot:
+   
+   
 
    Task 2: Telegram Send
    => Implement send_message() and post a test message to your group.
