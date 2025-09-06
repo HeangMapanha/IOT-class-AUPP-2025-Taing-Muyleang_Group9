@@ -5,11 +5,11 @@
    In this lab, you will build a tiny IoT monitoring node with an ESP32, DHT22 temperature/humidity sensor, and a relay. The ESP32 sends Telegram        alerts when the temperature rises above a threshold and lets users control the relay via chat commands. Once the temperature drops below the          threshold again, the relay turns off automatically.
 
 # 2. Learning Outcomes (CLO Alignment)
-   • Design & implement an IoT system using ESP32 + MicroPython (sensing, actuation, networking).
-   • Apply programming techniques for periodic sampling, debouncing, and simple state machines.
-   • Develop a chat-based remote control application using Telegram Bot API (HTTP requests).
-   • Document & present system design, wiring, and test evidence (screenshots/video), and reflect on reliability/ethics.
-   • Evaluate performance (sampling interval, rate limits) and safety (relay loads, power isolation).
+   - Design & implement an IoT system using ESP32 + MicroPython (sensing, actuation, networking).
+   - Apply programming techniques for periodic sampling, debouncing, and simple state machines.
+   - Develop a chat-based remote control application using Telegram Bot API (HTTP requests).
+   - Document & present system design, wiring, and test evidence (screenshots/video), and reflect on reliability/ethics.
+   - Evaluate performance (sampling interval, rate limits) and safety (relay loads, power isolation).
    
 # 3. Equipment
    • ESP32 Dev Board (MicroPython firmware flashed)
@@ -23,39 +23,39 @@
 
 # 5. Taks
 
-   #### Task 1: Sensor Read and Print
+   ### Task 1: Sensor Read and Print
    => Read DHT22 every 5 seconds and print the temperature and humidity with 2 decimals.
    Serial Screenshot:
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/e098ae2c716a547fd1198646a2a06bc965191cbd/photo_2025-09-07%2002.03.32.jpeg?raw=true)
    
 
-   Task 2: Telegram Send
+   ### Task 2: Telegram Send
    => Implement send_message() and post a test message to your group.
    Screenshot:
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/56084c11b654ecd1c7e6fbe1dd89d855e5a60d1e/photo_2025-09-07%2002.40.51.jpeg?raw=true)
 
    
-   Task 3: Bot command
+   ### Task 3: Bot command
    => • Implement /status to reply with current T/H and relay state.
       • Implement /on and /off to control the relay.
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/cd12c23a5856e967bcdd0e9e0a8801b3e3b0ecb7/photo_2025-09-07%2002.08.02.jpeg?raw=true)
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/cd12c23a5856e967bcdd0e9e0a8801b3e3b0ecb7/photo_2025-09-07%2002.08.04.jpeg?raw=true)
 
 
-   Task 4: Bot Command
+   ### Task 4: Bot Command
    => • No messages while T < 30 °C.
       • If T ≥ 30 °C and relay is OFF, send an alert every loop (5 s) until /on is received.
       • After /on, stop alerts. When T < 30 °C, turn relay OFF automatically and send a one-time “auto-OFF” notice.
    Short video: N/A ( will provide later)
 
-   Task 5: Robustness
+   ### Task 5: Robustness
    => • Auto-reconnect Wi-Fi when dropped.
       • Handle Telegram HTTP errors (print status; skip this cycle on failure).
       • Avoid crashing on DHT OSError (skip cycle).
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/e3ee5d5986bfefa181bc6db933031cc0e6afd2d5/photo_2025-09-07%2002.45.51.jpeg?raw=true)
 
 
-   Task 6-Document
+   ### Task 6-Document
    => • README.md with wiring diagram/photo, configuration steps (token, chat id), and usage instructions.
       • Include a block diagram or flowchart of your loop/state.
 
