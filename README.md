@@ -1,6 +1,6 @@
 # IOT-class-AUPP-2025-Taing-Muyleang_Group9
 
-1. Overview
+#1. Overview
 
    In this lab, you will build a tiny IoT monitoring node with an ESP32, DHT22 temperature/humidity sensor, and a relay. The ESP32 sends Telegram        alerts when the temperature rises above a threshold and lets users control the relay via chat commands. Once the temperature drops below the          threshold again, the relay turns off automatically.
 
@@ -32,6 +32,8 @@
    Task 2: Telegram Send
    => Implement send_message() and post a test message to your group.
    Screenshot:
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/56084c11b654ecd1c7e6fbe1dd89d855e5a60d1e/photo_2025-09-07%2002.40.51.jpeg?raw=true)
+
    
    Task 3: Bot command
    => • Implement /status to reply with current T/H and relay state.
@@ -44,12 +46,14 @@
    => • No messages while T < 30 °C.
       • If T ≥ 30 °C and relay is OFF, send an alert every loop (5 s) until /on is received.
       • After /on, stop alerts. When T < 30 °C, turn relay OFF automatically and send a one-time “auto-OFF” notice.
-   Short video
+   Short video: N/A ( will provide later)
 
    Task 5: Robustness
    => • Auto-reconnect Wi-Fi when dropped.
       • Handle Telegram HTTP errors (print status; skip this cycle on failure).
       • Avoid crashing on DHT OSError (skip cycle).
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/e3ee5d5986bfefa181bc6db933031cc0e6afd2d5/photo_2025-09-07%2002.45.51.jpeg?raw=true)
+
 
    Task 6-Document
    => • README.md with wiring diagram/photo, configuration steps (token, chat id), and usage instructions.
@@ -83,7 +87,7 @@
         + /temp → Get current T/H
         + /whoami → Get your chat ID
       4. Temperature Alerts:
-         + >=30°C → Alert every 5s until /on
+         + ≥ 30°C → Alert every 5s until /on
          + < 30°C → Relay auto-OFF, one-time message
       5. Robustness:
          + Auto Wi-Fi reconnect
