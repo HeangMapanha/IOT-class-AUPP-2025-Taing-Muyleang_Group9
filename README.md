@@ -23,4 +23,44 @@
 
 5. Taks
 
-   => Task 1: Read DHT22 every 5 seconds and print the temperature and humidity with 2 decimals.
+   Task 1: Sensor Read and Print
+   => Read DHT22 every 5 seconds and print the temperature and humidity with 2 decimals.
+   Screenshot:
+
+   Task 2: Telegram Send
+   => Implement send_message() and post a test message to your group.
+   Screenshot:
+
+   Task 3: Bot command
+   => • Implement /status to reply with current T/H and relay state.
+      • Implement /on and /off to control the relay.
+
+   Task 4: Bot Command
+   => • No messages while T < 30 °C.
+      • If T ≥ 30 °C and relay is OFF, send an alert every loop (5 s) until /on is received.
+      • After /on, stop alerts. When T < 30 °C, turn relay OFF automatically and send a one-time “auto-OFF” notice.
+   Short video
+
+   Task 5: Robustness
+   => • Auto-reconnect Wi-Fi when dropped.
+      • Handle Telegram HTTP errors (print status; skip this cycle on failure).
+      • Avoid crashing on DHT OSError (skip cycle).
+
+   Task 6-Document
+   => • README.md with wiring diagram/photo, configuration steps (token, chat id), and usage instructions.
+      • Include a block diagram or flowchart of your loop/state.
+
+   - Wiring Diagram/photo
+
+   - Configuration steps:
+     + Token
+     + Chat id:
+   
+   - Usage Instruction:
+  
+   - Diagram and flow chart:
+     
+    
+       
+   
+   
