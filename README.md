@@ -26,7 +26,7 @@
    Task 1: Sensor Read and Print
    => Read DHT22 every 5 seconds and print the temperature and humidity with 2 decimals.
    Serial Screenshot:
-   
+   https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/2beae9839e192c9d749b2e516e90117626ec70f9/photo_2025-09-07%2001.41.15.jpeg
    
 
    Task 2: Telegram Send
