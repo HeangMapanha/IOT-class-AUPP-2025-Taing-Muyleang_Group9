@@ -32,14 +32,13 @@
    Task 2: Telegram Send
    => Implement send_message() and post a test message to your group.
    Screenshot:
-   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/cd12c23a5856e967bcdd0e9e0a8801b3e3b0ecb7/photo_2025-09-07%2002.08.02.jpeg?raw=true)
-   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/cd12c23a5856e967bcdd0e9e0a8801b3e3b0ecb7/photo_2025-09-07%2002.08.04.jpeg?raw=true)
-
    
-
    Task 3: Bot command
    => • Implement /status to reply with current T/H and relay state.
       • Implement /on and /off to control the relay.
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/cd12c23a5856e967bcdd0e9e0a8801b3e3b0ecb7/photo_2025-09-07%2002.08.02.jpeg?raw=true)
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/cd12c23a5856e967bcdd0e9e0a8801b3e3b0ecb7/photo_2025-09-07%2002.08.04.jpeg?raw=true)
+
 
    Task 4: Bot Command
    => • No messages while T < 30 °C.
@@ -56,16 +55,66 @@
    => • README.md with wiring diagram/photo, configuration steps (token, chat id), and usage instructions.
       • Include a block diagram or flowchart of your loop/state.
 
-   - Wiring Diagram/photo
+   - Wiring diagram
+ +---------------------+
+ |       ESP32         |
+ |                     |
+ |  3V3 --------> VCC  |   DHT22
+ |  GND --------> GND  |
+ |  GPIO4 ------> DATA |
+ |                     |
+ |  GPIO2 ------> Relay Module IN
+ |  GND --------> Relay GND
+ |  5V  --------> Relay VCC
+ +---------------------+
+
 
    - Configuration steps:
      + Token: 7591180638:AAF7Kol0RyDsgbh3airP0NA7dEtF0i-FlGE
      + Chat id: -4936918510
    
    - Usage Instruction:
+     1. Upload code to ESP32 and run.
+     2. Connect ESP32 to Wi-Fi.
+     3. Use Telegram commands:
+        + /on → Stop alerts
+        + /off → Relay OFF
+        + /status → Show relay + T/H
+        + /temp → Get current T/H
+        + /whoami → Get your chat ID
+      4. Temperature Alerts:
+         + >=30°C → Alert every 5s until /on
+         + < 30°C → Relay auto-OFF, one-time message
+      5. Robustness:
+         + Auto Wi-Fi reconnect
+         + Skip DHT sensor errors
+         + Telegram HTTP error handled
   
    - Diagram and flow chart:
-     
+     + block diagram:
+        +-----------+       +-----------+
+ | Telegram  | <---> | ESP32     |
+ |   App     |       |  Bot Code |
+ +-----------+       +-----------+
+                        | GPIO4 (DHT Data)
+                        v
+                     +-------+
+                     | DHT11 |
+                     | Temp  |
+                     | Humid |
+                     +-------+
+                        |
+                        | GPIO2
+                        v
+                     +-------+
+                     | Relay |
+                     +-------+
+
+
+       + flow chart
+      
+       ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/b09777d789e0c4d1f8a53f7005c2dd504b27cec4/photo_2025-09-07%2002.29.17.jpeg?raw=true)
+
     
        
    
