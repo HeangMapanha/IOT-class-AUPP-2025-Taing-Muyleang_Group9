@@ -2,7 +2,7 @@
 
 # 1. Overview
 
-   In this lab, you will build a tiny IoT monitoring node with an ESP32, DHT22 temperature/humidity sensor, and a relay. The ESP32 sends Telegram        alerts when the temperature rises above a threshold and lets users control the relay via chat commands. Once the temperature drops below the          threshold again, the relay turns off automatically.
+   In this lab, you will build a tiny IoT monitoring node with an ESP32, DHT22 temperature/humidity sensor, and a relay. The ESP32 sends Telegram alerts when the temperature rises above a threshold and lets users control the relay via chat commands. Once the temperature drops below the threshold again, the relay turns off automatically.
 
 # 2. Learning Outcomes (CLO Alignment)
    - Design & implement an IoT system using ESP32 + MicroPython (sensing, actuation, networking).
@@ -23,7 +23,7 @@
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/3e9533d3627f43133aee09351c6accf982601428/image_2025-09-06_11-31-06.png?raw=true)
 
 
-# 5. Taks
+# 5. Tasks
 
    ### Task 1: Sensor Read and Print
    > - Read DHT22 every 5 seconds and print the temperature and humidity with 2 decimals.
