@@ -92,6 +92,7 @@
   
    - Diagram and flow chart:
      + block diagram:
+       
         ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/37489e7743e2e955ed8ebf69fc867a14965bec1a/photo_2025-09-07%2007.44.30.jpeg?raw=true)
 
        + flow chart
