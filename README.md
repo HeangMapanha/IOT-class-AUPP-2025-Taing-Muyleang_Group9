@@ -20,6 +20,8 @@
    - Wi-Fi access (internet)
 
 # 4. Wiring
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/3e9533d3627f43133aee09351c6accf982601428/image_2025-09-06_11-31-06.png?raw=true)
+
 
 # 5. Taks
 
