@@ -47,14 +47,14 @@
 
    ### Task 4: Bot Command
    > - No messages while T < 30 °C.
-      - If T ≥ 30 °C and relay is OFF, send an alert every loop (5 s) until /on is received.
-      - After /on, stop alerts. When T < 30 °C, turn relay OFF automatically and send a one-time “auto-OFF” notice.
+   > - If T ≥ 30 °C and relay is OFF, send an alert every loop (5 s) until /on is received.
+   > - After /on, stop alerts. When T < 30 °C, turn relay OFF automatically and send a one-time “auto-OFF” notice.
    Short video: N/A ( will provide later)
 
    ### Task 5: Robustness
    > - Auto-reconnect Wi-Fi when dropped.
-      - Handle Telegram HTTP errors (print status; skip this cycle on failure).
-      - Avoid crashing on DHT OSError (skip cycle).
+   > - Handle Telegram HTTP errors (print status; skip this cycle on failure).
+   > - Avoid crashing on DHT OSError (skip cycle).
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/e3ee5d5986bfefa181bc6db933031cc0e6afd2d5/photo_2025-09-07%2002.45.51.jpeg?raw=true)
 
 
