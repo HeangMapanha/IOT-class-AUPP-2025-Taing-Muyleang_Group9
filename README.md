@@ -27,13 +27,13 @@
 
    ### Task 1: Sensor Read and Print
    > Read DHT22 every 5 seconds and print the temperature and humidity with 2 decimals.
-   Serial Screenshot:
+   > Serial Screenshot:
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/e098ae2c716a547fd1198646a2a06bc965191cbd/photo_2025-09-07%2002.03.32.jpeg?raw=true)
    
 
    ### Task 2: Telegram Send
    > Implement send_message() and post a test message to your group.
-   Screenshot:
+   > Screenshot:
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/56084c11b654ecd1c7e6fbe1dd89d855e5a60d1e/photo_2025-09-07%2002.40.51.jpeg?raw=true)
 
    
