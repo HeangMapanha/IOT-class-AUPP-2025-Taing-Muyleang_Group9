@@ -63,17 +63,8 @@
    > - Include a block diagram or flowchart of your loop/state.
 
    - Wiring diagram
- +---------------------+
- |       ESP32         |
- |                     |
- |  3V3 --------> VCC  |   DHT22
- |  GND --------> GND  |
- |  GPIO4 ------> DATA |
- |                     |
- |  GPIO2 ------> Relay Module IN
- |  GND --------> Relay GND
- |  5V  --------> Relay VCC
- +---------------------+
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/37489e7743e2e955ed8ebf69fc867a14965bec1a/photo_2025-09-07%2007.44.27.jpeg?raw=true)
+
    ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/76d06ba6967dacfb8dab99e71992fb94c977d9fa/wiring.png?raw=true)
 
 
@@ -100,24 +91,7 @@
   
    - Diagram and flow chart:
      + block diagram:
-        +-----------+       +-----------+
- | Telegram  | <---> | ESP32     |
- |   App     |       |  Bot Code |
- +-----------+       +-----------+
-                        | GPIO4 (DHT Data)
-                        v
-                     +-------+
-                     | DHT11 |
-                     | Temp  |
-                     | Humid |
-                     +-------+
-                        |
-                        | GPIO2
-                        v
-                     +-------+
-                     | Relay |
-                     +-------+
-
+        ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/37489e7743e2e955ed8ebf69fc867a14965bec1a/photo_2025-09-07%2007.44.30.jpeg?raw=true)
 
        + flow chart
       
