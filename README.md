@@ -72,6 +72,7 @@
  |  GND --------> Relay GND
  |  5V  --------> Relay VCC
  +---------------------+
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/76d06ba6967dacfb8dab99e71992fb94c977d9fa/wiring.png?raw=true)
 
 
    - Configuration steps:
