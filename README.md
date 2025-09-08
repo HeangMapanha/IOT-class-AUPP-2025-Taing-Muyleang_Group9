@@ -1,4 +1,4 @@
-# IOT-class-AUPP-2025-Taing-Muyleang_Group9
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ebc138ca-ee03-4a5a-87f6-3dbb42bb768f" /># IOT-class-AUPP-2025-Taing-Muyleang_Group9
 
 # 1. Overview
 
@@ -20,28 +20,28 @@
    - Wi-Fi access (internet)
 
 # 4. Wiring
-   ![image_alt](Pictures/Materials.png)
+   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/Materials.png?raw=true)
 
 # 5. Tasks
 
    ### Task 1: Sensor Read and Print
    > - Read DHT22 every 5 seconds and print the temperature and humidity with 2 decimals.
    > - Serial Screenshot:
-   ![image_alt](Pictures/SerialOutpit.jpeg)
+   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/message%233.jpeg?raw=true)
    
 
    ### Task 2: Telegram Send
    > - Implement send_message() and post a test message to your group.
    > - Screenshot:
-   ![image_alt](Pictures/message#3.jpeg)
+   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/message%233.jpeg?raw=true)
 
    
    ### Task 3: Bot command
    > - Implement /status to reply with current T/H and relay state.
    > - Implement /on and /off to control the relay.
 
-   ![image_alt](Pictures/message#1.jpeg)
-   ![image_alt](Pictures/message#2.jpeg)
+   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/message%231.jpeg?raw=true)
+   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/message%232.jpeg?raw=true)
 
 
    ### Task 4: Bot Command
@@ -54,7 +54,7 @@
    > - Auto-reconnect Wi-Fi when dropped.
    > - Handle Telegram HTTP errors (print status; skip this cycle on failure).
    > - Avoid crashing on DHT OSError (skip cycle).
-   ![image_alt](Pictures/codepic.jpeg)
+   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/codepic.jpeg?raw=true)
 
 
    ### Task 6-Document
@@ -63,7 +63,7 @@
 
    - Wiring diagram
      
-   ![image_alt](Pictures/wiring.png)
+   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/wiring.png?raw=true)
 
 
    - Configuration steps:
