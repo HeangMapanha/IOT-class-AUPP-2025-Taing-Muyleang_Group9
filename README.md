@@ -1,4 +1,4 @@
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ebc138ca-ee03-4a5a-87f6-3dbb42bb768f" /># IOT-class-AUPP-2025-Taing-Muyleang_Group9
+class-AUPP-2025-Taing-Muyleang_Group9
 
 # 1. Overview
 
