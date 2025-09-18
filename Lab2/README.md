@@ -38,6 +38,9 @@ By the end of this lab, students will be able to:
 - Show values on the web page (refresh every 1-2 seconds).
 - Evidence: screenshot of web page with sensor values.
 
+  ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/3eadda321d22e4631a5f85b9fa556695c73e44fc/Lab2/photo_2025-09-18%2023.19.34.jpeg?raw=true)
+
+
 ### Task 3 - Sensor → LCD 
 - Add two buttons:
 - Show Distance → writes distance to LCD line 1.
@@ -51,5 +54,6 @@ By the end of this lab, students will be able to:
 - Add a textbox + “Send” button on the web page.
 - User enters custom text → LCD displays it (scroll if >16 chars).
 - Evidence: short video of typing text in browser → appears on LCD.
+
 
 
