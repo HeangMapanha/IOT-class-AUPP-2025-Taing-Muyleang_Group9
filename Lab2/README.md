@@ -44,8 +44,12 @@ By the end of this lab, students will be able to:
 - Show Temp → writes temperature to LCD line 2.
 - Evidence: photo of LCD showing correct sensor values after button clicks.
 
+  ![My Lab Photo](Lab2/photo_2025-09-18 23.19.34.jpeg)
+
+
 ### Task 4 - Textbox → LCD 
 - Add a textbox + “Send” button on the web page.
 - User enters custom text → LCD displays it (scroll if >16 chars).
 - Evidence: short video of typing text in browser → appears on LCD.
+
 
