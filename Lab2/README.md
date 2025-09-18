@@ -28,7 +28,24 @@ By the end of this lab, students will be able to:
 
 # 5. Tasks & Checkpoints
 
-## Task 1 - LED Control (15 pts)
-• Add two buttons (ON/OFF) on the web page.
-• When clicked, LED on GPIO2 should turn ON or OFF.
-• Evidence: short video showing button click → LED changes
+### Task 1 - LED Control 
+- Add two buttons (ON/OFF) on the web page.
+- When clicked, LED on GPIO2 should turn ON or OFF.
+- Evidence: short video showing button click → LED changes
+
+### Task 2 - Sensor Read 
+- Read DHT11 temperature and ultrasonic distance.
+- Show values on the web page (refresh every 1-2 seconds).
+- Evidence: screenshot of web page with sensor values.
+
+### Task 3 - Sensor → LCD 
+- Add two buttons:
+- Show Distance → writes distance to LCD line 1.
+- Show Temp → writes temperature to LCD line 2.
+- Evidence: photo of LCD showing correct sensor values after button clicks.
+
+### Task 4 - Textbox → LCD 
+- Add a textbox + “Send” button on the web page.
+- User enters custom text → LCD displays it (scroll if >16 chars).
+- Evidence: short video of typing text in browser → appears on LCD.
+
