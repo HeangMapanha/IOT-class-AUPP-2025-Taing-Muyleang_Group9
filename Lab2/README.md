@@ -26,6 +26,8 @@ By the end of this lab, students will be able to:
 
 # 4. Wiring
 
+  ![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/e447a7a9dc2479d0f6568c45dcb658edb83ee735/Lab2/photo_2025-09-19%2015.30.10.jpeg)
+
 # 5. Tasks & Checkpoints
 
 ### Task 1 - LED Control 
@@ -61,7 +63,8 @@ By the end of this lab, students will be able to:
 - Setup instructions (Wi-Fi, running server)
 - Usage instructions (LED control, sensor buttons, textbox → LCD)
 - Evidence: GitHub repo with source code, screenshots, and demo video.
-6. Submission & Academic Integrity
+  
+### 6. Submission & Academic Integrity
 Submit a private GitHub repo (add instructor as collaborator). Include:
 - Source code (main.py + LCD helper files)
 - README.md with wiring diagram/photo and usage instructions
@@ -70,6 +73,7 @@ Submit a private GitHub repo (add instructor as collaborator). Include:
    - LED ON/OFF from browser
    - Temperature/distance displayed on LCD via buttons
    - Text typed into browser textbox displayed on LCD
+
 
 
 
