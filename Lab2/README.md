@@ -46,13 +46,14 @@ By the end of this lab, students will be able to:
 - Show Temp → writes temperature to LCD line 2.
 - Evidence: photo of LCD showing correct sensor values after button clicks.
 
-  
+  ![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/0e0d0226cb8d22cd924f0fa4fcede5727202995c/Lab2/photo_2025-09-19%2015.25.16.jpeg) 
 
 
 ### Task 4 - Textbox → LCD 
 - Add a textbox + “Send” button on the web page.
 - User enters custom text → LCD displays it (scroll if >16 chars).
 - Evidence: short video of typing text in browser → appears on LCD.
+
 
 
 
