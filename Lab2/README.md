@@ -55,6 +55,21 @@ By the end of this lab, students will be able to:
 - Evidence: short video of typing text in browser → appears on LCD.
 
 
+### Task 5 - Documentation (30 pts)
+- README.md with:
+- Wiring diagram/photo
+- Setup instructions (Wi-Fi, running server)
+- Usage instructions (LED control, sensor buttons, textbox → LCD)
+- Evidence: GitHub repo with source code, screenshots, and demo video.
+6. Submission & Academic Integrity
+Submit a private GitHub repo (add instructor as collaborator). Include:
+- Source code (main.py + LCD helper files)
+- README.md with wiring diagram/photo and usage instructions
+- Screenshots of web page + LCD output
+- Short demo video (60–90s) showing:
+   - LED ON/OFF from browser
+   - Temperature/distance displayed on LCD via buttons
+   - Text typed into browser textbox displayed on LCD
 
 
 
