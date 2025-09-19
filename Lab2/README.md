@@ -77,6 +77,9 @@ Submit a private GitHub repo (add instructor as collaborator). Include:
    - Temperature/distance displayed on LCD via buttons
    - Text typed into browser textbox displayed on LCD
 
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+
 
 
 
