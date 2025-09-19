@@ -37,9 +37,8 @@ By the end of this lab, students will be able to:
 - Read DHT11 temperature and ultrasonic distance.
 - Show values on the web page (refresh every 1-2 seconds).
 - Evidence: screenshot of web page with sensor values.
-
- ![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/main/Lab2/photo_2025-09-19_15.06.23.jpeg)
-
+  
+![image_alt](./Lab2/photo_2025-09-19_15.06.23.jpeg)
 
 ### Task 3 - Sensor → LCD 
 - Add two buttons:
@@ -54,6 +53,7 @@ By the end of this lab, students will be able to:
 - Add a textbox + “Send” button on the web page.
 - User enters custom text → LCD displays it (scroll if >16 chars).
 - Evidence: short video of typing text in browser → appears on LCD.
+
 
 
 
