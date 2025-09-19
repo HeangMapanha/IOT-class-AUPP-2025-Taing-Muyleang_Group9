@@ -35,6 +35,9 @@ By the end of this lab, students will be able to:
 - When clicked, LED on GPIO2 should turn ON or OFF.
 - Evidence: short video showing button click → LED changes
 
+  [![Video Title](https://img.youtube.com/vi/DDptpCSwtmc/hqdefault.jpg)](https://www.youtube.com/watch?v=DDptpCSwtmc)
+
+
 ### Task 2 - Sensor Read 
 - Read DHT11 temperature and ultrasonic distance.
 - Show values on the web page (refresh every 1-2 seconds).
@@ -78,6 +81,7 @@ Submit a private GitHub repo (add instructor as collaborator). Include:
    - Text typed into browser textbox displayed on LCD
 
 [![My YouTube Video](https://img.youtube.com/vi/09kR5pUJa3s/hqdefault.jpg)](https://www.youtube.com/watch?v=09kR5pUJa3s)
+
 
 
 
