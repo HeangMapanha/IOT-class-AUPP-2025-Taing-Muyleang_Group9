@@ -59,6 +59,8 @@ By the end of this lab, students will be able to:
 - User enters custom text → LCD displays it (scroll if >16 chars).
 - Evidence: short video of typing text in browser → appears on LCD.
 
+  [![IOT - Lab2 (text display in LCD)](https://img.youtube.com/vi/XM_0uU5bOsg/hqdefault.jpg)](https://www.youtube.com/watch?v=XM_0uU5bOsg)
+
 
 ### Task 5 - Documentation (30 pts)
 - README.md with:
@@ -81,6 +83,7 @@ Submit a private GitHub repo (add instructor as collaborator). Include:
    - Text typed into browser textbox displayed on LCD
 
 [![My YouTube Video](https://img.youtube.com/vi/09kR5pUJa3s/hqdefault.jpg)](https://www.youtube.com/watch?v=09kR5pUJa3s)
+
 
 
 
