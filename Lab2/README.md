@@ -38,7 +38,7 @@ By the end of this lab, students will be able to:
 - Show values on the web page (refresh every 1-2 seconds).
 - Evidence: screenshot of web page with sensor values.
 
-  ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/3eadda321d22e4631a5f85b9fa556695c73e44fc/Lab2/photo_2025-09-18%2023.19.34.jpeg?raw=true)
+  ![image_alt](Lab2/photo_2025-09-19%2015.06.23.jpeg)
 
 
 ### Task 3 - Sensor → LCD 
@@ -47,13 +47,14 @@ By the end of this lab, students will be able to:
 - Show Temp → writes temperature to LCD line 2.
 - Evidence: photo of LCD showing correct sensor values after button clicks.
 
-  ![My Lab Photo](Lab2/photo_2025-09-18 23.19.34.jpeg)
+  
 
 
 ### Task 4 - Textbox → LCD 
 - Add a textbox + “Send” button on the web page.
 - User enters custom text → LCD displays it (scroll if >16 chars).
 - Evidence: short video of typing text in browser → appears on LCD.
+
 
 
 
