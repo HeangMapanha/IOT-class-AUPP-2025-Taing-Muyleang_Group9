@@ -64,6 +64,7 @@ By the end of this lab, students will be able to:
 - Usage instructions (LED control, sensor buttons, textbox → LCD)
 - Evidence: GitHub repo with source code, screenshots, and demo video.
 
+![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/20a10659c27052042512a8e07696ce036c365b28/Lab2/photo_2025-09-19%2015.44.18.jpeg)
 
   
 ### 6. Submission & Academic Integrity
@@ -75,6 +76,7 @@ Submit a private GitHub repo (add instructor as collaborator). Include:
    - LED ON/OFF from browser
    - Temperature/distance displayed on LCD via buttons
    - Text typed into browser textbox displayed on LCD
+
 
 
 
