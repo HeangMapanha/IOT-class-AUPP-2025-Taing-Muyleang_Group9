@@ -63,6 +63,8 @@ By the end of this lab, students will be able to:
 - Setup instructions (Wi-Fi, running server)
 - Usage instructions (LED control, sensor buttons, textbox → LCD)
 - Evidence: GitHub repo with source code, screenshots, and demo video.
+
+
   
 ### 6. Submission & Academic Integrity
 Submit a private GitHub repo (add instructor as collaborator). Include:
@@ -73,6 +75,7 @@ Submit a private GitHub repo (add instructor as collaborator). Include:
    - LED ON/OFF from browser
    - Temperature/distance displayed on LCD via buttons
    - Text typed into browser textbox displayed on LCD
+
 
 
 
