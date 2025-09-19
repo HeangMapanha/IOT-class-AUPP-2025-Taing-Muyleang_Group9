@@ -6,7 +6,7 @@ and send custom messages to the LCD through a webserver.
 This lab emphasizes interaction between web UI and hardware, giving students practice in event-
 driven IoT design.
 
-# 2. Learning Outcomes ( (CLO Alignment)
+# 2. Learning Outcomes (CLO Alignment)
 By the end of this lab, students will be able to:
 - Implement a MicroPython webserver to serve HTML controls.
 - Control an LED from the web page.
@@ -54,6 +54,7 @@ By the end of this lab, students will be able to:
 - Add a textbox + “Send” button on the web page.
 - User enters custom text → LCD displays it (scroll if >16 chars).
 - Evidence: short video of typing text in browser → appears on LCD.
+
 
 
 
