@@ -1,9 +1,9 @@
 from machine import Pin, SoftI2C, PWM, time_pulse_us
 from time import sleep, sleep_us, time, localtime
 from machine_i2c_lcd import I2cLcd
-import telegram_bot
+import mini_project_1.code.telegram_bot as telegram_bot
 import _thread
-import web_dashboard  # <-- Dashboard module
+import mini_project_1.code.web_dashboard as web_dashboard  # <-- Dashboard module
 
 # ==============================
 # --- LCD Setup ----------------
