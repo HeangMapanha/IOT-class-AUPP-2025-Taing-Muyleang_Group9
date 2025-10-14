@@ -1,4 +1,4 @@
-#1 Overview
+# 1. Overview
 Build a three-slot smart parking system using an ESP32 that:
 • detects vehicles at the entry gate with an ultrasonic sensor,
 • shows available slots on an LCD and opens the servo gate only if space is available,
@@ -8,7 +8,7 @@ Build a three-slot smart parking system using an ESP32 that:
 • shows live status on a web dashboard hosted by the ESP32,
 • and sends receipts to Telegram when cars leave.
 
-#2 Equipment
+# 2. Equipments
 - ESP32
 - IR sensors
 - Ultrasonic sensor
@@ -17,8 +17,8 @@ Build a three-slot smart parking system using an ESP32 that:
 - Prototype board
 - Wire
 
-#3 Wiring and flowcharts
+# 3. Wiring and flowcharts
 
-#4 Video
+# 4. Video
 
-#5 Image
+# 5. Image
