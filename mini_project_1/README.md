@@ -17,8 +17,17 @@ Build a three-slot smart parking system using an ESP32 that:
 - Prototype board
 - Wire
 
-# 3. Wiring and flowcharts
+# 3. Usage Instrcutions
+- Power on → LCD shows all slots free.
+- Car detected → Gate opens if space is available.
+- Park the car → ID assigned and displayed on dashboard.
+- Check web dashboard (status updates in real-time).
+- Remove the car → Fee calculated and Telegram receipt sent.
+- Dashboard updates and slot becomes free again.
 
-# 4. Video
+# 4. Wiring and flowcharts
 
-# 5. Image
+
+# 5. Video
+
+# 6. Image
