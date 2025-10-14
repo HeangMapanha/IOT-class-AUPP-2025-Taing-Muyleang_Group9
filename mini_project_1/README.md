@@ -25,9 +25,8 @@ Build a three-slot smart parking system using an ESP32 that:
 - Remove the car → Fee calculated and Telegram receipt sent.
 - Dashboard updates and slot becomes free again.
 
-# 4. Wiring and flowcharts
+# 4. Wiring and Flowcharts
 
 
 # 5. Video
 
-# 6. Image
