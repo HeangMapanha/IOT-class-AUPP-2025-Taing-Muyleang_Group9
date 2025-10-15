@@ -34,3 +34,5 @@ Build a three-slot smart parking system using an ESP32 that:
 
 # 5. Video
 
+[![My YouTube Video](https://img.youtube.com/vi/020EAW8se9U/hqdefault.jpg)](https://www.youtube.com/watch?v=020EAW8se9U)
+
