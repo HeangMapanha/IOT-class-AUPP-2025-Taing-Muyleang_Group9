@@ -5,6 +5,7 @@ It communicates via I²C or SPI, allowing easy integration with microcontrollers
 
 # 2. Learning Income
 
+By completing this project, you will gain practical skills and knowledge in the following areas:
 - Interface BMP280 sensor with ESP32 using MicroPython.
 - Read and process temperature, pressure, and altitude data.
 - Connect ESP32 to MQTT brokers and publish telemetry data.
