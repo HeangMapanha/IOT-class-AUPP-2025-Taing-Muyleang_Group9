@@ -1,13 +1,13 @@
 # 1. Overview
 
-In this lab, students will design an ESP32-based IoT system with MicroPython that integrates a
+In this lab, we will design an ESP32-based IoT system with MicroPython that integrates a
 web interface and an LCD display. The system will allow users to control an LED, read sensors,
 and send custom messages to the LCD through a webserver.
 This lab emphasizes interaction between web UI and hardware, giving students practice in event-
 driven IoT design.
 
 # 2. Learning Outcomes (CLO Alignment)
-By the end of this lab, students will be able to:
+By the end of this lab, we will be able to:
 - Implement a MicroPython webserver to serve HTML controls.
 - Control an LED from the web page.
 - Read data from DHT11 and ultrasonic sensors and expose it on the webserver.
@@ -83,6 +83,7 @@ Submit a private GitHub repo (add instructor as collaborator). Include:
    - Text typed into browser textbox displayed on LCD
 
 [![My YouTube Video](https://img.youtube.com/vi/09kR5pUJa3s/hqdefault.jpg)](https://www.youtube.com/watch?v=09kR5pUJa3s)
+
 
 
 
