@@ -5,6 +5,12 @@ It communicates via I²C or SPI, allowing easy integration with microcontrollers
 
 # 2. Learning Income
 
+- Interface BMP280 sensor with ESP32 using MicroPython.
+- Read and process temperature, pressure, and altitude data.
+- Connect ESP32 to MQTT brokers and publish telemetry data.
+- Visualize sensor data on ThingsBoard Cloud dashboards.
+- Gain hands-on experience in IoT hardware, firmware, and cloud integration.
+
 # 3. Equipments
 
 Hardware:
