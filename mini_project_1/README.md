@@ -29,8 +29,6 @@ Build a three-slot smart parking system using an ESP32 that:
 ![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/f1e2de5aff8e8d27bd9bde92c11acde0603caeaf/mini_project_1/photo_2025-10-14%2020.56.19.jpeg)
 
 
-![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/171a1b16c993a915fedba692a8d3f85938f6b291/Flowchart%20(4).png)
-
 
 # 5. Video
 
