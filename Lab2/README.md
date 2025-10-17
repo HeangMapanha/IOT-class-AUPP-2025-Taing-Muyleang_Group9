@@ -28,6 +28,9 @@ By the end of this lab, we will be able to:
 
   ![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/e447a7a9dc2479d0f6568c45dcb658edb83ee735/Lab2/photo_2025-09-19%2015.30.10.jpeg)
 
+  ![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/8ff520f29904e3020de505d8760a8e053d50b1bf/Flowchart%20(4).png)
+
+
 # 5. Tasks & Checkpoints
 
 ### Task 1 - LED Control 
@@ -83,6 +86,7 @@ Submit a private GitHub repo (add instructor as collaborator). Include:
    - Text typed into browser textbox displayed on LCD
 
 [![My YouTube Video](https://img.youtube.com/vi/09kR5pUJa3s/hqdefault.jpg)](https://www.youtube.com/watch?v=09kR5pUJa3s)
+
 
 
 
