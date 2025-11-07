@@ -26,6 +26,8 @@ By completing this project, you will learn:
 ## 4. Wiring & Flowcharts
 ![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/58ed7ae515f08ffe4add90d60fc109a858009232/Lab4/photo_2025-11-07%2023.33.09.jpeg)
 
+![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/6f84a9f2491a0becb7f322c51f3cc7b93f31d23c/Lab4/lab4-flowchart.png)
+
 ## 5. Micropython - Thonny
 ![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/cd87ae613f88a8acdf0427ce706c28cff6100357/Lab4/photo_2025-11-07%2022.30.16.jpeg)
 
