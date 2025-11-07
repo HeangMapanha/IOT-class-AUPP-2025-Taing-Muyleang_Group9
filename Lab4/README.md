@@ -16,7 +16,7 @@ Hardware:
 - MicroPython flashed on ESP32 (Upload scripts using Thonny, mpremote, or ampy)
 
 Software:
-- Node-RED Local automation server. Accessible at: http://localhost:1880
+- Node-RED Local automation server. Accessible at: http://localhost:1881
 - InfluxDB 1.x. Time-series database Running at: [http://127.0.0.1:8086 (http://127.0.0.1:8086)
 - Grafana — Visualization dashboard. Accessible at: http://localhost:3000
 
@@ -25,10 +25,13 @@ Optional:
   
 ## 4. Wiring & Flowcharts
 
-## 5. Node-RED Setup
+## 5. Micropython - Thonny
 
-## 6. InfluxDB
 
-## 7. Grafana
+## 6. Node-RED Setup
 
-## 8. Videos
+## 7. InfluxDB
+
+## 8. Grafana
+
+## 9. Videos
