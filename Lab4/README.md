@@ -12,7 +12,17 @@ By completing this project, you will learn:
 - Integrating multiple IoT tools to create a fully functional pipeline.
 - Troubleshooting network, MQTT, database, and visualization issues.
 ## 3. Equipments
+Hardware:
+- MicroPython flashed on ESP32 (Upload scripts using Thonny, mpremote, or ampy)
 
+Software:
+- Node-RED Local automation server. Accessible at: http://localhost:1880
+- InfluxDB 1.x. Time-series database Running at: [http://127.0.0.1:8086 (http://127.0.0.1:8086)
+- Grafana — Visualization dashboard. Accessible at: http://localhost:3000
+
+Optional:
+- MQTT Explorer — inspect and debug MQTT topics
+  
 ## 4. Wiring & Flowcharts
 
 ## 5. Node-RED Setup
