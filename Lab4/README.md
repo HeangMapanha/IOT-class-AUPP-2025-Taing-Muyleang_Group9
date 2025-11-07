@@ -30,6 +30,7 @@ By completing this project, you will learn:
 
 
 ## 6. Node-RED Setup
+![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/8ef7093edf461f82014b4ccd530aaba631949381/Lab4/photo_2025-11-07%2022.30.03.jpeg)
 
 ## 7. InfluxDB
 
