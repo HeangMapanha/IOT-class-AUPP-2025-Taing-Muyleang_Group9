@@ -27,13 +27,15 @@ By completing this project, you will learn:
 ## 4. Wiring & Flowcharts
 
 ## 5. Micropython - Thonny
-
+![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/cd87ae613f88a8acdf0427ce706c28cff6100357/Lab4/photo_2025-11-07%2022.30.16.jpeg)
 
 ## 6. Node-RED Setup
 ![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/8ef7093edf461f82014b4ccd530aaba631949381/Lab4/photo_2025-11-07%2022.30.03.jpeg)
 
 ## 7. InfluxDB
+![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/cd87ae613f88a8acdf0427ce706c28cff6100357/Lab4/photo_2025-11-07%2022.30.14.jpeg)
 
 ## 8. Grafana
+![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/cd87ae613f88a8acdf0427ce706c28cff6100357/Lab4/photo_2025-11-07%2022.30.12.jpeg)
 
 ## 9. Videos
