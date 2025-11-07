@@ -12,7 +12,6 @@ By completing this project, you will learn:
 - Integrating multiple IoT tools to create a fully functional pipeline.
 - Troubleshooting network, MQTT, database, and visualization issues.
 ## 3. Equipments
-
 ### Hardware:
 - MicroPython flashed on ESP32 (Upload scripts using Thonny, mpremote, or ampy)
 
@@ -25,6 +24,7 @@ By completing this project, you will learn:
 - MQTT Explorer — inspect and debug MQTT topics
   
 ## 4. Wiring & Flowcharts
+![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/58ed7ae515f08ffe4add90d60fc109a858009232/Lab4/photo_2025-11-07%2023.33.09.jpeg)
 
 ## 5. Micropython - Thonny
 ![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/cd87ae613f88a8acdf0427ce706c28cff6100357/Lab4/photo_2025-11-07%2022.30.16.jpeg)
