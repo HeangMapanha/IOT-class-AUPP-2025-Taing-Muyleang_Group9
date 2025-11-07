@@ -39,4 +39,5 @@ By completing this project, you will learn:
 ![image_alt](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/cd87ae613f88a8acdf0427ce706c28cff6100357/Lab4/photo_2025-11-07%2022.30.12.jpeg)
 
 ## 9. Videos
-[![My YouTube Video](https://img.youtube.com/vi/4S8U2Ka-WCM/hqdefault.jpg)](https://www.youtube.com/watch?v=4S8U2Ka-WCM)
+[![My YouTube Video](https://img.youtube.com/vi/n4BJDCQjyTU/hqdefault.jpg)](https://www.youtube.com/watch?v=n4BJDCQjyTU)
+
