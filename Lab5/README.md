@@ -39,6 +39,8 @@ In this lab, we will create a mobile application using MIT App Inventor to remot
 
 ## 6. Submission and Academic Integrity
 
+[![My YouTube Video](https://img.youtube.com/vi/tP01OilUORk/hqdefault.jpg)](https://www.youtube.com/watch?v=tP01OilUORk)
+
 
 
 
