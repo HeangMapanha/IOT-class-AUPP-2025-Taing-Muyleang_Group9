@@ -23,6 +23,7 @@ In this lab, we will create a mobile application using MIT App Inventor to remot
 
 ### Wiring
 
+![Lab5 Wiring](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/cc1c803bde24b97658e2263fe94546a1d148b9cc/Lab5/Lab5-wiring.jpg)
 
 ### Flowchart
 
