@@ -31,6 +31,15 @@ In this lab, we will create a mobile application using MIT App Inventor to remot
 
 ### Task 1: ESP32 Web Server
 
+### Task 2 : Mobile App Design
+
+### Task 3 : Data Logging to InfluxDB
+
+### Task 4 : Grafana Dashboard
+
+## 6. Submission and Academic Integrity
+
+
 
 
 
