@@ -12,7 +12,7 @@
    
 # 3. Equipment
    - ESP32 Dev Board (MicroPython firmware flashed)
-   - DHT22 sensor
+   - DHT11 sensor
    - Relay module
    - jumper wires
    - USB cable + laptop with Thonny
