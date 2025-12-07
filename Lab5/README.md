@@ -31,11 +31,13 @@ In this lab, we will create a mobile application using MIT App Inventor to remot
 ## 5. Tasks and Checkpoints
 
 ### Task 1: ESP32 Web Server
+![Lab5 Photo](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/main/Lab5/photo_2025-12-07%2023.27.14.jpeg)
 
 ### Task 2 : Mobile App Design
 ![Lab5 Photo](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/main/Lab5/photo_2025-12-07%2023.27.03.jpeg)
 
 ### Task 3 : Data Logging to InfluxDB
+![Lab5 Photo](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/main/Lab5/photo_2025-12-07%2023.27.11.jpeg)
 
 ### Task 4 : Grafana Dashboard
 ![Lab5 Photo](https://raw.githubusercontent.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/main/Lab5/photo_2025-12-07%2023.27.05.jpeg)
