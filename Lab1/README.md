@@ -19,7 +19,7 @@
    - Wi-Fi access (internet)
 
 # 4. Wiring
-   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Lab1/Pictures/wiring.png)
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Lab1/Pictures/Materials.png)
 
 # 5. Tasks
 
