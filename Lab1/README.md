@@ -19,28 +19,28 @@
    - Wi-Fi access (internet)
 
 # 4. Wiring
-   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/Materials.png?raw=true)
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Lab1/Pictures/wiring.png)
 
 # 5. Tasks
 
    ### Task 1: Sensor Read and Print
    > - Read DHT22 every 5 seconds and print the temperature and humidity with 2 decimals.
    > - Serial Screenshot:
-   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/message%233.jpeg?raw=true)
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Lab1/Pictures/SensorCode.jpeg)
    
 
    ### Task 2: Telegram Send
    > - Implement send_message() and post a test message to your group.
    > - Screenshot:
-   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/message%233.jpeg?raw=true)
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Lab1/Pictures/codepic.jpeg)
 
    
    ### Task 3: Bot command
    > - Implement /status to reply with current T/H and relay state.
    > - Implement /on and /off to control the relay.
 
-   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/message%231.jpeg?raw=true)
-   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/message%232.jpeg?raw=true)
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Lab1/Pictures/message%233.jpeg)
+
 
 
    ### Task 4: Bot Command
@@ -89,11 +89,11 @@
    - Diagram and flow chart:
      + block diagram:
        
-        ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/37489e7743e2e955ed8ebf69fc867a14965bec1a/photo_2025-09-07%2007.44.30.jpeg?raw=true)
+        ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Lab1/Pictures/codeBlock.jpeg)
 
        + flow chart
       
-       ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/b09777d789e0c4d1f8a53f7005c2dd504b27cec4/photo_2025-09-07%2002.29.17.jpeg?raw=true)
+       ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Lab1/Pictures/codeflow.jpeg)
 
     
        
