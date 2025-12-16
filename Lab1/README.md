@@ -53,7 +53,6 @@
    > - Auto-reconnect Wi-Fi when dropped.
    > - Handle Telegram HTTP errors (print status; skip this cycle on failure).
    > - Avoid crashing on DHT OSError (skip cycle).
-   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/codepic.jpeg?raw=true)
 
 
    ### Task 6-Document
@@ -62,7 +61,7 @@
 
    - Wiring diagram
      
-   ![image_alt](https://github.com/HeangMapanha/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Pictures/wiring.png?raw=true)
+   ![image_alt](https://github.com/mleanggg/IOT-class-AUPP-2025-Taing-Muyleang_Group9/blob/main/Lab1/Pictures/wiring.png)
 
 
    - Configuration steps:
